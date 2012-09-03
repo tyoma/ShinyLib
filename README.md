@@ -1,0 +1,4 @@
+ShinyLib
+========
+
+Music files organizer
